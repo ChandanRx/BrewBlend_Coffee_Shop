@@ -19,5 +19,8 @@ BrewBlend is a modern and fully responsive coffee shop web application built wit
 
 ## 📸 Screenshots
 
-> *(Add screenshots here if you have any, like Home page, Menu, Cart, Payment, and Tracking)*
+- ![screencapture-brewblend-vercel-app-2025-06-30-14_12_58](https://github.com/user-attachments/assets/62923d4f-a28f-484e-b277-7fd0728198a6)
+- ![screencapture-brewblend-vercel-app-menu-2025-06-30-14_13_28](https://github.com/user-attachments/assets/3e88b582-a691-45e2-8d39-6695039b2aee)
+
+
 
